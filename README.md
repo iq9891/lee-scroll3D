@@ -43,8 +43,8 @@ no1.scrollToEleFn(1);</pre>
 		</div>
 	</div>
 </div>
-3. css代码
 </pre>
+3. css代码
 <pre>
 .scroll3D {width:300px;margin:100px auto 0;position:relative;}
 .div {width:100%;height:200px;
