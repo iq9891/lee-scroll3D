@@ -24,11 +24,14 @@ no1.scrollToEleFn(1);</pre>
 ## 使用方法 ##
 
 1. 引用zepto和LeeScroll3D(路径需自行修改)
+<pre><code>
 <script src="zepto.min.js"></script>
 <script src="touch.js"></script>
 <script src="fx.js"></script>
 <script src="LeeScroll3D.min.js"></script>
+</code></pre>
 2. 在body中写入
+<pre><code>
 <div id="scroll3D" class="scroll3D">
 	<div class="div lsHand">
 		<div class="divScroll">
@@ -41,6 +44,7 @@ no1.scrollToEleFn(1);</pre>
 		</div>
 	</div>
 </div>
+</code></pre>
 3. css代码
 <pre>
 .scroll3D {width:300px;margin:100px auto 0;position:relative;}
