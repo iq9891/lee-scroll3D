@@ -62,8 +62,9 @@ width:54px;height:22px;text-align:center;color:#aaa;}
 <pre>new LeeScroll();</pre>
 
 ## demo预览 ##
-
-1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )
+pc预览直接点击，然后谷歌模拟手机预览。手机预览直接扫二维码即可预览。
+1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )![demo1](codeDemo1.png)
+[demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )
 2. [demo2]( http://iq9891.github.io/lee-scroll3D/demo2.html )
 3. [demo3]( http://iq9891.github.io/lee-scroll3D/demo3.html )
 4. [demo4]( http://iq9891.github.io/lee-scroll3D/demo4.html )
