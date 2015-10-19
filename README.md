@@ -60,3 +60,10 @@ width:54px;height:22px;text-align:center;color:#aaa;}
 .anim {-webkit-transition: transform 0.5s;}</pre>
 4. js 
 <pre>new LeeScroll();</pre>
+
+## demo预览 ##
+
+1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )
+2. [demo2]( http://iq9891.github.io/lee-scroll3D/demo2.html )
+3. [demo3]( http://iq9891.github.io/lee-scroll3D/demo3.html )
+4. [demo4]( http://iq9891.github.io/lee-scroll3D/demo4.html )
