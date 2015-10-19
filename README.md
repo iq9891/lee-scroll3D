@@ -65,10 +65,14 @@ width:54px;height:22px;text-align:center;color:#aaa;}
 
 pc预览直接点击，然后谷歌模拟手机预览。手机预览直接扫二维码即可预览。
 
-1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )![demo1](codeDemo1.png)( http://iq9891.github.io/lee-scroll3D/demo1.html )
+1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )
+[![demo1](codeDemo1.png)]( http://iq9891.github.io/lee-scroll3D/demo1.html )
 
-2. [demo2]( http://iq9891.github.io/lee-scroll3D/demo2.html )![demo2](codeDemo2.png)( http://iq9891.github.io/lee-scroll3D/demo2.html )
+2. [demo2]( http://iq9891.github.io/lee-scroll3D/demo2.html )
+[![demo2](codeDemo2.png)]( http://iq9891.github.io/lee-scroll3D/demo2.html )
 
-3. [demo3]( http://iq9891.github.io/lee-scroll3D/demo3.html )![demo3](codeDemo3.png)( http://iq9891.github.io/lee-scroll3D/demo3.html )
+3. [demo3]( http://iq9891.github.io/lee-scroll3D/demo3.html )
+[![demo3](codeDemo3.png)]( http://iq9891.github.io/lee-scroll3D/demo3.html )
 
-4. [demo4]( http://iq9891.github.io/lee-scroll3D/demo4.html )![demo4](codeDemo4.png)( http://iq9891.github.io/lee-scroll3D/demo4.html )
+4. [demo4]( http://iq9891.github.io/lee-scroll3D/demo4.html )
+[![demo4](codeDemo4.png)]( http://iq9891.github.io/lee-scroll3D/demo4.html )
