@@ -67,7 +67,7 @@ pc预览直接点击，然后谷歌模拟手机预览。手机预览直接扫二
 
 1. [demo1]( http://iq9891.github.io/lee-scroll3D/demo1.html )
 
-[![demo1](codeDemo1.png =60%*60%)]( http://iq9891.github.io/lee-scroll3D/demo1.html )
+[![demo1](codeDemo1.png)]( http://iq9891.github.io/lee-scroll3D/demo1.html )
 
 2. [demo2]( http://iq9891.github.io/lee-scroll3D/demo2.html )
 
