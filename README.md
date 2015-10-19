@@ -30,16 +30,16 @@ no1.scrollToEleFn(1);</pre>
 &lt;script src="LeeScroll3D.min.js"&gt;&lt;/script&gt;</code></pre>
 2. 在body中写入
 <pre><code>&lt;div id="scroll3D" class="scroll3D"&gt;
-	&lt;div class="div lsHand"&gt;
-		&lt;div class="divScroll"&gt;
-			&lt;ul id="lsUl1" class="ul"&gt;&lt;/ul&gt;
+		&lt;div class="div lsHand"&gt;
+			&lt;div class="divScroll"&gt;
+				&lt;ul id="lsUl1" class="ul"&gt;&lt;/ul&gt;
+			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
-	&lt;div class="div div2 lsHand"&gt;
-		&lt;div class="divScroll"&gt;
-			&lt;ul id="lsUl2" class="ul ul2"&gt;&lt;/ul&gt;
+		&lt;div class="div div2 lsHand"&gt;
+			&lt;div class="divScroll"&gt;
+				&lt;ul id="lsUl2" class="ul ul2"&gt;&lt;/ul&gt;
+			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
 &lt;/div&gt;</code></pre>
 3. css代码
 <pre>.scroll3D {width:300px;margin:100px auto 0;position:relative;}
