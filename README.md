@@ -23,6 +23,7 @@ no1.scrollToEleFn(1);</pre>
 
 ## 使用方法 ##
 
+
 1. 引用zepto和LeeScroll3D(路径需自行修改)
 </code></pre>
 <pre><code>
