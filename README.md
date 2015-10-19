@@ -21,7 +21,7 @@ no1.scrollEndFn(function(iNow){console.log(iNow);});
 no1.scrollIngFn(function(iNow){console.log(iNow);})
 no1.scrollToEleFn(1);</pre>
 
-## 使用方法 ##
+## 使用方法 ## 
 
 1. 引用zepto和LeeScroll3D(路径需自行修改)
 <pre><code>
