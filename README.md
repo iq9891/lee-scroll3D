@@ -24,26 +24,27 @@ no1.scrollToEleFn(1);</pre>
 ## 使用方法 ##
 
 1. 引用zepto和LeeScroll3D(路径需自行修改)
+</code></pre>
 <pre><code>
-<script src="zepto.min.js"></script>
-<script src="touch.js"></script>
-<script src="fx.js"></script>
-<script src="LeeScroll3D.min.js"></script>
+&lt;script src="zepto.min.js"&gt;&lt;/script&gt;
+&lt;script src="touch.js"&gt;&lt;/script&gt;
+&lt;script src="fx.js"&gt;&lt;/script&gt;
+&lt;script src="LeeScroll3D.min.js"&gt;&lt;/script&gt;
 </code></pre>
 2. 在body中写入
 <pre><code>
-<div id="scroll3D" class="scroll3D">
-	<div class="div lsHand">
-		<div class="divScroll">
-			<ul id="lsUl1" class="ul"></ul>
-		</div>
-	</div>
-	<div class="div div2 lsHand">
-		<div class="divScroll">
-			<ul id="lsUl2" class="ul ul2"></ul>
-		</div>
-	</div>
-</div>
+&lt;div id="scroll3D" class="scroll3D"&gt;
+	&lt;div class="div lsHand"&gt;
+		&lt;div class="divScroll"&gt;
+			&lt;ul id="lsUl1" class="ul"&gt;&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="div div2 lsHand"&gt;
+		&lt;div class="divScroll"&gt;
+			&lt;ul id="lsUl2" class="ul ul2"&gt;&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 </code></pre>
 3. css代码
 <pre>
