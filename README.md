@@ -24,3 +24,39 @@ no1.scrollToEleFn(1);</pre>
 ## 使用方法 ##
 
 1. 引用zepto和LeeScroll3D(路径需自行修改)
+<pre><code>&lt;script src="zepto.min.js"&gt;&lt;/script&gt;
+&lt;script src="touch.js"&gt;&lt;/script&gt;
+&lt;script src="fx.js"&gt;&lt;/script&gt;
+&lt;script src="LeeScroll3D.min.js"&gt;&lt;/script&gt;</code></pre>
+2. 在body中写入
+<pre><code>&lt;div id="scroll3D" class="scroll3D"&gt;
+	&lt;div class="div lsHand"&gt;
+		&lt;div class="divScroll"&gt;
+			&lt;ul id="lsUl1" class="ul"&gt;&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="div div2 lsHand"&gt;
+		&lt;div class="divScroll"&gt;
+			&lt;ul id="lsUl2" class="ul ul2"&gt;&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+3. css代码
+<pre>.scroll3D {width:300px;margin:100px auto 0;position:relative;}
+.div {width:100%;height:200px;
+perspective: 1000px;border:1px solid red;position:relative;
+overflow:hidden;
+}
+.div .divScroll {width:100%;height:200px;
+-webkit-transform:rotateY(0deg) rotateX(0deg) rotateZ(0deg);
+transform-style:preserve-3d; -webkit-transform-style:preserve-3d;
+background:#fff;}
+.ul {width:100%;height:100%;
+transform-style:preserve-3d; -webkit-transform-style:preserve-3d;
+-webkit-transform-origin:center center;transform-origin:center center;
+background:-rgba(255,0,0,0.1);-webkit-transform: rotateX(120deg);}
+.ul li {font-size:20px;position:absolute;
+width:54px;height:22px;text-align:center;color:#aaa;}
+.anim {-webkit-transition: transform 0.5s;}</pre>
+4. js 
+<pre>new LeeScroll();</pre>
